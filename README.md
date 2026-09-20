@@ -72,4 +72,4 @@ python <skill-dir>/scripts/cleanup_lab_project.py <output-directory> --apply
 
 ## 许可与数据责任
 
-代码、Skill 指令和模板采用 MIT License。教材、实验讲义、实验照片和原始数据不随本仓库分发，其版权与使用授权由使用者自行确认。不要把姓名、学号、未公开实验数据或受版权保护的课程材料提交到公开仓库。
+代码、Skill 指令和模板采用 MIT License。
