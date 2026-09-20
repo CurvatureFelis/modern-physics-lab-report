@@ -1,0 +1,2 @@
+record_id,sample_id,quantity,value,unit,condition,source_file,source_region,verification_note
+fixture-001,test-sample,fit_parameter,1.0,arb.,software schema test,fixture-image.png,dialog field,synthetic test fixture
