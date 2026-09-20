@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modern Physics Lab Report"
+  short_description: "Reproducible modern-physics analysis and LaTeX reports"
+  default_prompt: "Use $modern-physics-lab-report to analyze these lab materials and generate a reproducible LaTeX report."

@@ -1,0 +1,20 @@
+experiment:
+  title: null
+  objective: null
+inputs:
+  files: []
+  transcription_file: "data/processed/manual_transcription.csv"
+quantities: []
+model:
+  expression: null
+  fit_method: null
+  weighting: null
+  rationale: null
+reference_value:
+  value: null
+  unit: null
+  source: null
+report:
+  author: ""
+  student_id: ""
+  date: ""
